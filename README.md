@@ -28,11 +28,8 @@ I'm **Full stack Developer** from India.
 
 - :telescope: I’m developing web apps. 
 
-- :seedling: Developing skills as Full stack engineer (Hardware + Software)
-
-- :zap: In my free time, I read books and watch movies. 
-
-
+- :seedling: Developing skills as Full stack.
+ 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sarju-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarju-kaneriya-307ba1203/)
 
 ### :hammer_and_wrench: Languages and Tools :
